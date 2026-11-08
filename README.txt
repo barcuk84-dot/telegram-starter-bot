@@ -15,3 +15,4 @@ The live scanner generates candidates and calls Telegram CheckUsernameRequest. I
 Important: This checks whether Telegram currently accepts the username for assignment to the logged-in account. It does not transfer ownership to a buyer. The estimated beauty/liquidity/TON values are heuristic only, not Fragment market quotes.
 
 Use a dedicated session name (findtag_session). Do not run two processes that open the same .session file at the same time. The separate desktop Username Hunter may continue using its own `session` file.
+
